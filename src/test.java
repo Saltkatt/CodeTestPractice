@@ -1,5 +1,5 @@
 public class test {
-
+/*
 
     // Acompany is designing the class hierarchy for various cache implementations
     public class Cache {}
@@ -37,6 +37,6 @@ public class test {
 
     OptimizedDiskCache optimizedDiskCache = new OptimizedDiskCache();
     Cache cache = (Cache) optimizedDiskCache;
-    DiskCache diskCache = (DiskCache) cache;
+    DiskCache diskCache = (DiskCache) cache;*/
 
 }
